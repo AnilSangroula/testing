@@ -16,6 +16,7 @@ public class TestClass {
 		int mult = ref.multiply(5,6);
 		System.out.println(sum);
 		System.out.println(mult);
+		System.out.println("just a addition in the project");
 		
 
 	}
