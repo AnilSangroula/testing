@@ -17,6 +17,7 @@ public class TestClass {
 		System.out.println(sum);
 		System.out.println(mult);
 		System.out.println("just a addition in the project");
+		System.out.println("another addition to the git");
 		
 
 	}
